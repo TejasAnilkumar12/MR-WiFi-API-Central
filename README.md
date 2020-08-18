@@ -1,6 +1,6 @@
 # Wi-Fi API for Central Computer MoonRanger
 API prototype for communication and file transfer between MoonRanger Rover and Lander over TCP socket.
-![Setup](images/setup.jpg)
+
 
 ### Usage 
 ```
