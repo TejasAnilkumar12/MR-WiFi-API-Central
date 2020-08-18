@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-File name:  WiFi_API.py
+File name:  WiFi_API_Central.py
 Created on Thu Aug 13 16:53:23 2020
 Description:  MoonRanger Central Computer WiFi API
 OS:  Windows or Linux
