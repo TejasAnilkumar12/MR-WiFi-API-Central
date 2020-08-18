@@ -2,7 +2,7 @@
 """
 File name:  WiFi_API_Channel_Demo.py
 Created on Thu Aug 13 16:53:23 2020
-Description:  MoonRanger Central Computer WiFi API Send and ReceiveChannel Usage
+Description:  MoonRanger Central Computer WiFi API Send and Receive Channel Usage
 OS:  Windows or Linux
 @author: Tejas Anilkumar P. <tpandara@andrew.cmu.edu>
 Carnegie Mellon University
